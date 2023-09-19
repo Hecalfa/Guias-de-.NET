@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Gtiq3KEFpyktSd32jX7kqXiCcxRGLt5P/MGtP5j0ScvBk+COkRRy527oDz9CtGAEOOAplT2sxlbpmK4/91CrQ==",
+  "dgSpecHash": "pvyzy0Ztdm2Qc4Q0DjhbIPEBjIN9RczGYIWeKuc4dZGRIQhwPMxoTFUA4k7ST6p5yXl2LjH9+S2+g4S+/377RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\c#\\guia001\\01-Productos\\01-Productos\\01-Productos.csproj",
+  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia001\\01-Productos\\01-Productos\\01-Productos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

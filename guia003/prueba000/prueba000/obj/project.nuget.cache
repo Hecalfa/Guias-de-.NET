@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZWvdBx19K+UqBNx/QyWXvIrr9PA9Jn15VdSysTF55nvFOddUr1WGNnWqsuCxV/lTd0kQMbCSi19v3lg6v+COw==",
+  "dgSpecHash": "vM9ECDSRuSPX6h6BSqHGLv5sbexiuS60ooNRjXUwRIC+c6Oy4QCXqjP5ltNPpsob5nZpyv2Os4aGs+pkNKoEUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\Guias-de-.NET\\guia003\\prueba000\\prueba000\\prueba000.csproj",
+  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia003\\prueba000\\prueba000\\prueba000.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
