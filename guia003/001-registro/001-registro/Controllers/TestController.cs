@@ -5,9 +5,9 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace AutenticacionCookieControllers.Controllers
 {
-    [Route("api/controller")]
+    [Route("api/[controller]")]
     [ApiController]
-    public class TestController : ControllerBase
+    public class MatriculaController : ControllerBase
     {
         static List<Matricula> matriculas = new List<Matricula>();
 

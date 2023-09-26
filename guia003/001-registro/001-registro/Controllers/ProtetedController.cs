@@ -7,7 +7,7 @@ namespace AutenticacionCookieControllers.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
-    public class ProtetedController : ControllerBase
+    public class notaController : ControllerBase
     {
         static List<object> data = new List<object>();
 
