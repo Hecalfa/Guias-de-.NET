@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jrWaWR9aW0uaYx748scz4KWSsfFi3E3QjbbZ6Qq60sMZvy7yj7M+0/mS/Io0J5S+89+lhcV6QD6Dh73H6IiAcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia003\\001-registro\\001-registro\\001-registro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rivas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rivas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rivas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\rivas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\rivas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\rivas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
