@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgehlFQEn/jnUFPwv+KBFFeM241AfhIdTKsaigbLF7vdi6j6aNP6+n92S2Aoc3J8ptGiWWdgn9tKU/2ra+b6cw==",
+  "dgSpecHash": "PfMTqFBayhuox6rN5Ay75eE2NN83xMzhobLs/VstHelPT1XnnTcRh7bmrnNpJBGJk6hv+XMD15PVzuBRFbM42g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\Guias-de-.NET\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000).csproj",
+  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

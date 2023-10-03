@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8pogzA0ftlghbmQ4J/5HgnF5mT+YVRjXghT56PMNwVIz95Eb2fqylApdHwdA3aQpVAuNMHt6Dn/mM+CsXmQ18w==",
+  "dgSpecHash": "wdG8emLUcPF9TnMNwqQDCcT6ZmuinZgTDU7IuEESssh0MHEz4RriPbW3JzQnt+4FyWr9pYJScSwwgFO239T5nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\Guias-de-.NET\\guia004\\001-Inventario(HDAR)\\001-Inventario(HDAR)\\001-Inventario(HDAR).csproj",
+  "projectFilePath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia004\\001-Inventario(HDAR)\\001-Inventario(HDAR)\\001-Inventario(HDAR).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\rivas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

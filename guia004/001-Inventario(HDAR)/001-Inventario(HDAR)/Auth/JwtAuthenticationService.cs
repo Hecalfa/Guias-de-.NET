@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _001_Inventario_HDAR_.Auth
 {
-    public class JwtAuthenticationService
+    public class JwtAuthenticationService: IJwtAuthenticationService
     {
         private readonly string _key;
 

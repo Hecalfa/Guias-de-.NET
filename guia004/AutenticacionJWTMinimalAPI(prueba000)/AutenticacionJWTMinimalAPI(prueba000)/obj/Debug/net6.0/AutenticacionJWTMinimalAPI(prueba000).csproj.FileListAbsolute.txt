@@ -69,3 +69,10 @@ C:\Users\rivas\Desktop\agape\Guias-de-.NET\guia004\AutenticacionJWTMinimalAPI(pr
 C:\Users\rivas\Desktop\agape\Guias-de-.NET\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\obj\Debug\net6.0\AutenticacionJWTMinimalAPI(prueba000).pdb
 C:\Users\rivas\Desktop\agape\Guias-de-.NET\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\obj\Debug\net6.0\AutenticacionJWTMinimalAPI(prueba000).genruntimeconfig.cache
 C:\Users\rivas\Desktop\agape\Guias-de-.NET\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\obj\Debug\net6.0\ref\AutenticacionJWTMinimalAPI(prueba000).dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rivas\Desktop\agape\c#(guias)\guia004\AutenticacionJWTMinimalAPI(prueba000)\AutenticacionJWTMinimalAPI(prueba000)\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

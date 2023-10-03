@@ -847,11 +847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rivas\\Desktop\\agape\\Guias-de-.NET\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000).csproj",
+      "projectUniqueName": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000).csproj",
       "projectName": "AutenticacionJWTMinimalAPI(prueba000)",
-      "projectPath": "C:\\Users\\rivas\\Desktop\\agape\\Guias-de-.NET\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000).csproj",
+      "projectPath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000).csproj",
       "packagesPath": "C:\\Users\\rivas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rivas\\Desktop\\agape\\Guias-de-.NET\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\obj\\",
+      "outputPath": "C:\\Users\\rivas\\Desktop\\agape\\c#(guias)\\guia004\\AutenticacionJWTMinimalAPI(prueba000)\\AutenticacionJWTMinimalAPI(prueba000)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -913,7 +913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
