@@ -9,7 +9,7 @@ namespace _001_Inventario_HDAR_.Endpoints
         {
             app.MapPost("/account/login", (string login, string password, IJwtAuthenticationService authService) =>
             {
-                if (login == "admin" && password == "1234")
+                if (login == "Xiomi" && password == "1234")
                 {
                     var token = authService.Authenticate(login);
                     return Results.Ok(token);
